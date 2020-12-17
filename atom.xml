@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://liaokai.com.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://liaokai.com.cn/"/>
   <updated>2020-12-16T03:42:48.583Z</updated>
-  <id>http://example.com/</id>
+  <id>http://liaokai.com.cn/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何在hexo显示图片与公式</title>
-    <link href="http://example.com/2020/12/16/%E5%A6%82%E4%BD%95%E5%9C%A8hexo%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%87%E4%B8%8E%E5%85%AC%E5%BC%8F/"/>
-    <id>http://example.com/2020/12/16/%E5%A6%82%E4%BD%95%E5%9C%A8hexo%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%87%E4%B8%8E%E5%85%AC%E5%BC%8F/</id>
+    <link href="http://liaokai.com.cn/2020/12/16/%E5%A6%82%E4%BD%95%E5%9C%A8hexo%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%87%E4%B8%8E%E5%85%AC%E5%BC%8F/"/>
+    <id>http://liaokai.com.cn/2020/12/16/%E5%A6%82%E4%BD%95%E5%9C%A8hexo%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%87%E4%B8%8E%E5%85%AC%E5%BC%8F/</id>
     <published>2020-12-16T02:44:03.000Z</published>
     <updated>2020-12-16T03:42:48.583Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
+    <category term="hexo" scheme="http://liaokai.com.cn/categories/hexo/"/>
     
     
-    <category term="hexo typora" scheme="http://example.com/tags/hexo-typora/"/>
+    <category term="hexo typora" scheme="http://liaokai.com.cn/tags/hexo-typora/"/>
     
   </entry>
   
   <entry>
     <title>ubuntu16.04在github上搭建hexo</title>
-    <link href="http://example.com/2020/12/15/ubuntu16-04%E5%9C%A8github%E4%B8%8A%E6%90%AD%E5%BB%BAhexo/"/>
-    <id>http://example.com/2020/12/15/ubuntu16-04%E5%9C%A8github%E4%B8%8A%E6%90%AD%E5%BB%BAhexo/</id>
+    <link href="http://liaokai.com.cn/2020/12/15/ubuntu16-04%E5%9C%A8github%E4%B8%8A%E6%90%AD%E5%BB%BAhexo/"/>
+    <id>http://liaokai.com.cn/2020/12/15/ubuntu16-04%E5%9C%A8github%E4%B8%8A%E6%90%AD%E5%BB%BAhexo/</id>
     <published>2020-12-15T10:08:07.000Z</published>
     <updated>2020-12-16T09:40:50.471Z</updated>
     
@@ -57,10 +57,10 @@
     
     
     
-    <category term="hexo" scheme="http://example.com/categories/hexo/"/>
+    <category term="hexo" scheme="http://liaokai.com.cn/categories/hexo/"/>
     
     
-    <category term="hexo github" scheme="http://example.com/tags/hexo-github/"/>
+    <category term="hexo github" scheme="http://liaokai.com.cn/tags/hexo-github/"/>
     
   </entry>
   
